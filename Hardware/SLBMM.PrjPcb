@@ -80,10 +80,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFEQFJYI
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for SLBMM\Design Rule Check - SLBMM.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
